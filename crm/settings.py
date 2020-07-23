@@ -40,7 +40,7 @@ INSTALLED_APPS = [
 
     'debug_toolbar',
 
-    'accounts',
+    'accounts.apps.AccountsConfig',
 
     'django_filters',
 ]
